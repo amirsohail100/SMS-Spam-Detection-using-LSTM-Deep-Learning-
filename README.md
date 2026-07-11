@@ -37,7 +37,7 @@ Follow these quick implementation steps to clone, configure, and execute the dee
 ### 1. Clone and Enter the Repository
 
 ```bash
-git clone [https://github.com/amirsohail100/sms-spam-detection-lstm.git](https://github.com/amirsohail100/sms-spam-detection-lstm.git)
+git clone [https://github.com/amirsohail100/SMS-Spam-Detection-using-LSTM-Deep-Learning-.git](https://github.com/amirsohail100/SMS-Spam-Detection-using-LSTM-Deep-Learning-.git)
 cd sms-spam-detection-lstm
 
 
