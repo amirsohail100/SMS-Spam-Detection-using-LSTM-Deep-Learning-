@@ -10,4 +10,13 @@ An end-to-end Deep Learning and Natural Language Processing (NLP) pipeline built
 - **Training Accuracy:** ~98% 🚀
 - **Optimization:** EarlyStopping callback integration to prevent overfitting and preserve optimal weights based on validation loss tracking.
 
+---
+
+## 🧠 Model Architecture & Deep Learning Core
+
+- **Text Preprocessing:** Implements tokenization, sequencing, and padding layouts to transform text data into uniform tensor formats.
+- **Embedding Layer:** Maps words into high-dimensional dense vector spaces to maintain semantic relationships.
+- **Bidirectional LSTM Layers:** Utilizes stacked, bidirectional LSTM cells to process sequences forward and backward, capturing deep contextual dependencies that traditional models miss.
+- **Regularization & Output:** Integrates Dropout layers to mitigate overfitting, followed by a Dense layer with a Sigmoid activation function for crisp binary classification.
+
 A high-performance SMS Spam Detection system powered by Deep Learning (TensorFlow). Features an NLP pipeline utilizing an LSTM network to capture long-term text dependencies, achieving a standout 98% classification accuracy in filtering real-time ham and spam messages.
