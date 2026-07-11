@@ -19,4 +19,13 @@ An end-to-end Deep Learning and Natural Language Processing (NLP) pipeline built
 - **Bidirectional LSTM Layers:** Utilizes stacked, bidirectional LSTM cells to process sequences forward and backward, capturing deep contextual dependencies that traditional models miss.
 - **Regularization & Output:** Integrates Dropout layers to mitigate overfitting, followed by a Dense layer with a Sigmoid activation function for crisp binary classification.
 
+---
+
+## 🛠️ Tech Stack & Dependencies
+
+- **Deep Learning Framework:** TensorFlow 2.x / Keras
+- **Natural Language Processing:** NLTK / Keras Tokenizer
+- **Data Science Tools:** Python 3.x, NumPy, Pandas, Scikit-learn
+- **Visualization:** Matplotlib, Seaborn (For Loss/Accuracy curves and Confusion Matrix plots)
+
 A high-performance SMS Spam Detection system powered by Deep Learning (TensorFlow). Features an NLP pipeline utilizing an LSTM network to capture long-term text dependencies, achieving a standout 98% classification accuracy in filtering real-time ham and spam messages.
