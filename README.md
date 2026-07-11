@@ -28,4 +28,19 @@ An end-to-end Deep Learning and Natural Language Processing (NLP) pipeline built
 - **Data Science Tools:** Python 3.x, NumPy, Pandas, Scikit-learn
 - **Visualization:** Matplotlib, Seaborn (For Loss/Accuracy curves and Confusion Matrix plots)
 
+---
+
+## 🚀 How to Run Locally
+
+Follow these quick implementation steps to clone, configure, and execute the deep learning modules locally on your machine:
+
+### 1. Clone and Enter the Repository
+
+```bash
+git clone [https://github.com/amirsohail100/sms-spam-detection-lstm.git](https://github.com/amirsohail100/sms-spam-detection-lstm.git)
+cd sms-spam-detection-lstm
+
+
+
 A high-performance SMS Spam Detection system powered by Deep Learning (TensorFlow). Features an NLP pipeline utilizing an LSTM network to capture long-term text dependencies, achieving a standout 98% classification accuracy in filtering real-time ham and spam messages.
+```
